@@ -1,0 +1,40 @@
+a{
+    text-decoration: none;
+    
+}
+tab{
+    align-content: flex-end;
+    font-size: larger
+}
+div{
+    font-size: large;
+
+}
+p{
+    text-align: right;
+}
+#image{
+    height: 30%;
+    width: 25%;
+}
+h1{
+    text-align: center;
+    background-color: #c599ec;
+    
+}
+h2{
+    text-align: center;
+    background-color: wheat;
+    
+}
+h3{
+    background-color: wheat;
+}
+img{
+    background-color: violet;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
